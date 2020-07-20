@@ -1,0 +1,3 @@
+[submodule ".github/workflows"]
+	path = .github/workflows
+	url = E:/Data/VirtoCommerce/mvktsk/github-actions-flows
