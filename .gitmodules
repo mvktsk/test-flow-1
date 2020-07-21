@@ -1,4 +1,4 @@
 [submodule ".github/workflows"]
 	path = .github/workflows
-	url = https://github.com/mvktsk/github-actions-flows.git
+	url = https://github.com/mvktsk/github-actions-flows
 	branch = master
